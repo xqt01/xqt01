@@ -1,11 +1,7 @@
 ### Hi, I am Harry! 👋
 
-I'm a developer passionate about **AI Applications** and **Agentic Systems**. 
+I'm a developer passionate about **AI Applications** and **Harness Systems**. 
 I enjoy exploring open-source projects, building prototypes, and turning ideas into working code.
-
-🔭 **Currently:**
-- Experimenting with various OSS projects in the AI/LLM space
-- Building my own side projects around AI agents and applied AI
 
 💼 **I'm currently open to work** — especially in roles related to AI Harness. 
 If you're building something interesting in this space or hiring, feel free to reach out!
