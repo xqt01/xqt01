@@ -7,7 +7,7 @@ I enjoy exploring open-source projects, building prototypes, and turning ideas i
 - Experimenting with various OSS projects in the AI/LLM space
 - Building my own side projects around AI agents and applied AI
 
-💼 **I'm currently open to work** — especially in roles related to **AI Application Development** and **Agent Engineering**. 
+💼 **I'm currently open to work** — especially in roles related to AI Harness. 
 If you're building something interesting in this space or hiring, feel free to reach out!
 
 📫 [Email](mailto:harry.zhang1221@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harry-zhang-7138591a9/)
